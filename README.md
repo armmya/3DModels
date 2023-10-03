@@ -6,16 +6,10 @@ https://www.freecad.org/
 และ CURA
 https://ultimaker.com/software/ultimaker-cura/#links
 
-![image](https://github.com/armmya/3DModels/assets/93005440/21a89e04-daea-44f9-8a58-a1285ad26532)
-
-![image](https://github.com/armmya/3DModels/assets/93005440/7cca28bf-3c29-4781-88ec-b6b8e4cdb938)
-
-![image](https://github.com/armmya/3DModels/assets/93005440/112479a7-0620-4857-a709-58cdc1b9ee1e)
-
-![image](https://github.com/armmya/3DModels/assets/93005440/fe3803d4-661b-48cd-bd8d-5d1a492a41ab)
-
-![image](https://github.com/armmya/3DModels/assets/93005440/a566bb70-680e-4271-8e2e-d3656babe679)
-
-![image](https://github.com/armmya/3DModels/assets/93005440/9e26cb5b-66d1-41f6-8a8d-11d3dbe19e43)
-
-![image](https://github.com/armmya/3DModels/assets/93005440/a04fb7a9-54a0-4e1f-9bdb-e89d3027cb82)
+![freecad](https://github.com/armmya/Links/assets/93005440/ad737251-8bff-4fb2-a1c9-0e5b5b270325)
+![Freecad2](https://github.com/armmya/Links/assets/93005440/95afd960-2659-4024-b3a4-db94c0d1d994)
+![Freecad3](https://github.com/armmya/Links/assets/93005440/643d78da-ebd8-40a0-a4e4-47507d6544ac)
+![Freecad4](https://github.com/armmya/Links/assets/93005440/f034d963-423a-4613-be07-72ee51f88253)
+![Freecad5](https://github.com/armmya/Links/assets/93005440/fb9f17c4-a6c2-4be3-bec4-76408b513d14)
+![fREECAD6](https://github.com/armmya/Links/assets/93005440/b8df13ab-6213-4c59-9a7e-3c8014e76ceb)
+![Freecad7](https://github.com/armmya/Links/assets/93005440/4aec1a31-5b33-4f29-a136-2d1bf1096820)
